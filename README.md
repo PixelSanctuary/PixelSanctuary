@@ -17,12 +17,12 @@ At **Pixel Sanctuary**, we believe in the power of storytelling, creativity, and
 
 ### 💾 Our Games & Projects
 
-- [🪙 Le Arcade](https://pixelsanctuary.github.io/Le-Arcade/)  
+- 🎟️ [Le Arcade](https://pixelsanctuary.github.io/Le-Arcade/)  
   *A Collection of Mini Games!*
 
 ---
 
-### 🧰 Our Toolkit
+### 🕹️ Our Toolkit
 
 We’re always working with cutting-edge tools to bring the best gaming experiences to life. Our developers thrive on:
 
