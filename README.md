@@ -10,15 +10,14 @@ Welcome to **Pixel Sanctuary**, where games come to life! We are a passionate in
 At **Pixel Sanctuary**, we believe in the power of storytelling, creativity, and fun. Our team of **Pixelers** (that’s what we call our developers) is working tirelessly to build exciting new games and interactive worlds that will keep you entertained for hours.
 
 🔸 **Mission:** To create games that inspire, challenge, and entertain.  
-🔸 **Current Project:** [Project Sanctum](https://github.com/PixelSanctuary/project-sanctum) – An open-world adventure game set in a mystical, pixelated universe.  
+🔸 **Current Project:** [VR Park](https://github.com/PixelSanctuary) – A virtual reality park simulation where you can chill, explore and meet friends in pixelated universe.  
 🔸 **Our Specialty:** From 2D pixel art games to cutting-edge web-based gaming experiences, we’re here to push the boundaries of indie game development.
 
 ---
 
 ### 💾 Our Games & Projects
 
-- 🎟️ [Le Arcade](https://pixelsanctuary.github.io/Le-Arcade/)  
-  *A Collection of Mini Games!*
+- 🎟️ [Le Arcade](https://pixelsanctuary.github.io/Le-Arcade/): *A Collection of Mini Games!*
 
 ---
 
