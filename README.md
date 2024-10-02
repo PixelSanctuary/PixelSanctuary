@@ -1,11 +1,11 @@
-# Welcome to Pixel Sanctuary 🎮
+# Pixel Sanctuary ☣
 
-**Greetings, Adventurer!**  
+**Greetings!**  
 Welcome to **Pixel Sanctuary**, where games come to life! We are a passionate indie game studio dedicated to crafting immersive and unforgettable gaming experiences. Whether you're a casual player or a hardcore gamer, we have something brewing for you in our pixelated world.
 
 ---
 
-### 🌟 About Pixel Sanctuary
+### 🔷 About Pixel Sanctuary
 
 At **Pixel Sanctuary**, we believe in the power of storytelling, creativity, and fun. Our team of **Pixelers** (that’s what we call our developers) is working tirelessly to build exciting new games and interactive worlds that will keep you entertained for hours.
 
@@ -15,27 +15,21 @@ At **Pixel Sanctuary**, we believe in the power of storytelling, creativity, and
 
 ---
 
-### 🎮 Our Games & Projects
+### 💾 Our Games & Projects
 
-- [🌍 Project Sanctum](https://github.com/PixelSanctuary/project-sanctum)  
-  *A pixelated open-world adventure where you explore, build, and battle through a magical land.*
-
-- [⚔️ Hero’s Path](https://github.com/PixelSanctuary/heros-path)  
-  *An action-packed RPG with deep lore and intense combat.*
-
-- [🛠 Game Dev Tools](https://github.com/PixelSanctuary/game-dev-tools)  
-  *Open-source tools designed to help fellow indie developers speed up their game development process.*
+- [🪙 Le Arcade](https://pixelsanctuary.github.io/Le-Arcade/)  
+  *A Collection of Mini Games!*
 
 ---
 
-### 🔧 Our Toolkit
+### 🧰 Our Toolkit
 
 We’re always working with cutting-edge tools to bring the best gaming experiences to life. Our developers thrive on:
 
 - **Game Engines:** Unity, Godot, Custom 2D Engines
 - **Languages:** C#, JavaScript, TypeScript, Python
 - **Platforms:** PC, Web, Mobile
-- **Tech:** Vue, React, WebGL, Firebase
+- **Tech:** Vue, React, Next, Node, Firebase
 
 ---
 
@@ -43,18 +37,18 @@ We’re always working with cutting-edge tools to bring the best gaming experien
 
 We’re more than just developers; we’re a community of gamers and creators. Want to join the adventure?
 
-- 🏠 [Official Website](https://pixelsanctuary.com)
-- 🎮 [Follow us on Linkedin](https://www.linkedin.com/company/pixel-sanctuary) for updates on our latest projects.
+- 🌐 [Pixel Sanctuary_Official Website](https://pixelsanctuary.vercel.app/)
+- 🪪 [Get Connected on Linkedin](https://www.linkedin.com/company/pixel-sanctuary) for updates on our latest projects.
 - ✨ [Follow us on Instagram](https://www.instagram.com/pixel_sanctuary/) to chat with the team, share ideas, and get early access to our games!
-- 📧 [Email Us](mailto:contact@pixelsanctuary.com) if you’re interested in collaborations or have any questions.
+- 📧 [Email Us](mailto:sanctuarypixel@gmail.com) if you’re interested in collaborations or have any questions.
 
 ---
 
-### 🎨 Pixelers Unite!
+### 👽 Become a Pixeler!
 
 We’re always looking for talented individuals to join our team of **Pixelers**. Whether you’re a developer, artist, or storyteller, let’s create something amazing together.
 
-Stay tuned for more exciting projects from **Pixel Sanctuary**. Adventure awaits!
+Stay tuned for more exciting projects from **Pixel Sanctuary**!
 
 
 
